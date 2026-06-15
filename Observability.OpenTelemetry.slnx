@@ -1,4 +1,10 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="docker-compose.yaml" />
+    <File Path="otel-collector-config.yaml" />
+    <File Path="prometheus.yml" />
+  </Folder>
   <Project Path="Observability.OpenTelemetry.ConsoleApp/Observability.OpenTelemetry.ConsoleApp.csproj" />
-  <Project Path="Observability.OpenTelemetry.WebAPI/Observability.OpenTelemetry.WebAPI.csproj" Id="26ebad87-b7ee-46ca-9933-e208a8d8d4af" />
+  <Project Path="Observability.OpenTelemetry.Metrics.WebAPI/Observability.OpenTelemetry.Metrics.WebAPI.csproj" Id="d68cb69c-8cc7-453c-83d8-2fc1f61f6356" />
+  <Project Path="Observability.OpenTelemetry.Tracing.WebAPI/Observability.OpenTelemetry.Tracing.WebAPI.csproj" />
 </Solution>
