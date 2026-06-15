@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Observability.OpenTelemetry.ConsoleApp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,1 +1,3 @@
-<Solution />
+<Solution>
+  <Project Path="Observability.OpenTelemetry.ConsoleApp/Observability.OpenTelemetry.ConsoleApp.csproj" />
+</Solution>
