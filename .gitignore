@@ -363,3 +363,7 @@ MigrationBackup/
 FodyWeavers.xsd
 /Temel komutlar.docx
 /OpenTelemetry1.png
+/OpenTelemetry.Youtube-master.zip
+/docker-compose.yaml
+/otel-collector-config.yaml
+/prometheus.yml
