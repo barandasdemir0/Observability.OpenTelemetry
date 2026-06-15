@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="Observability.OpenTelemetry.ConsoleApp/Observability.OpenTelemetry.ConsoleApp.csproj" />
+  <Project Path="Observability.OpenTelemetry.WebAPI/Observability.OpenTelemetry.WebAPI.csproj" Id="26ebad87-b7ee-46ca-9933-e208a8d8d4af" />
 </Solution>
